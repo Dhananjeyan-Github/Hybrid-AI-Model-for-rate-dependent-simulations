@@ -26,6 +26,7 @@ Please download the files and place the files in the data/ folder before running
 bash
 # Clone the repo
 git clone https://github.com/Dhananjeyan-Github/Hybrid-AI-Model-for-rate-dependent-simulations.git
+
 cd Hybrid-AI-Model-for-rate-dependent-simulations
 
 # Install dependencies
